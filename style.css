@@ -1,0 +1,19 @@
+main{
+    width: 900px;
+    font-size: 30px;
+    margin: auto;
+   
+    background-color: #00BFFF;
+    color: #FFFF00;
+    text-align: center;
+
+}
+body{
+     background-image: url('фон3.jpg') ;
+}
+p{padding: 0 20px;
+    text-align: justify;
+}
+body{
+  
+}
